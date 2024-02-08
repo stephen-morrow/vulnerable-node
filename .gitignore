@@ -83,3 +83,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
